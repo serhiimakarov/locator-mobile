@@ -1,0 +1,11 @@
+{
+  "appId": "com.serhiimakarov.locator",
+  "appName": "Locator",
+  "bundledWebRuntime": false,
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}
